@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[application opened]]>
+    </line>
+    <line>
+      <![CDATA[application opened]]>
+    </line>
+  </reporter-output>
+  <suite name="GroupRun" duration-ms="43015" started-at="2020-05-04T17:10:03Z" finished-at="2020-05-04T17:10:46Z">
+    <groups>
+    </groups>
+    <test name="GroupRun" duration-ms="43015" started-at="2020-05-04T17:10:03Z" finished-at="2020-05-04T17:10:46Z">
+      <class name="com.hrms.TestScripts.TC_101">
+        <test-method status="PASS" signature="tc001()[pri:0, instance:com.hrms.TestScripts.TC_101@75828a0f]" name="tc001" duration-ms="22637" started-at="2020-05-04T22:40:03Z" finished-at="2020-05-04T22:40:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[application opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.hrms.TestScripts.TC_101 -->
+      <class name="com.hrms.TestScripts.TC_102">
+        <test-method status="PASS" signature="tc002()[pri:0, instance:com.hrms.TestScripts.TC_102@7b3300e5]" name="tc002" duration-ms="20361" started-at="2020-05-04T22:40:26Z" finished-at="2020-05-04T22:40:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[application opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.TestScripts.TC_102 -->
+    </test> <!-- GroupRun -->
+  </suite> <!-- GroupRun -->
+</testng-results>
